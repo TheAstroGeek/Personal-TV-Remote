@@ -1,0 +1,1 @@
+Still a WIP, but you can still substitute commands in the switch function for most remotes you might have and essentially "duplicate" that remote. Will add functionality to switch between remotes for a true Universal TV Remote.
